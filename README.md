@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexandre-bm
 - 👀 I’m interested in new technologies
 - 🌱 I’m currently learning supply chain management and optimization
-- 📫 How to reach me on Linkedin: https://www.linkedin.com/in/alexandre-bernard-michinov-ba8377199/
+- 📫 Linkedin: https://www.linkedin.com/in/alexandre-bernard-michinov-ba8377199/
 
 <!---
 alexandre-bm/alexandre-bm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
